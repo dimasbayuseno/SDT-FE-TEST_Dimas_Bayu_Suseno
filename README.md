@@ -34,5 +34,5 @@
 &nbsp;
 # Screenshots 🌄
 &nbsp;
-![screenshot-desktop](https://puu.sh/GwPLE/3be580156a.png)
-<img alt="screenshot-mobile" width=400 src="https://puu.sh/GwPLS/0bcb566d23.png" />
+![Screenshot](https://raw.githubusercontent.com/dimasbayuseno/SDT-FE-TEST_Dimas_Bayu_Suseno/master/img/Screenshot%20from%202023-06-07%2022-23-16.png)
+![Screenshot](https://raw.githubusercontent.com/dimasbayuseno/SDT-FE-TEST_Dimas_Bayu_Suseno/master/img/Screenshot%20from%202023-06-07%2022-23-21.png)
